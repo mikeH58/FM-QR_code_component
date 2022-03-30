@@ -36,7 +36,7 @@ img {
 }
 
 .card-title {
-  margin-top: 20px;
+  margin-top: 24px;
   margin-bottom: 16px;
   color: #1f314f;
   font-size: 22px;
@@ -49,13 +49,4 @@ img {
   padding: 0 15px;
   line-height: 18.9px;
   letter-spacing: 0.19px;
-}
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  border: 1px solid red;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
